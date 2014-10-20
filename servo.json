@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "App": {
+      "type": "node.app"
+    }
+  }
+}
